@@ -7,8 +7,9 @@ For each factor, we have included the minimum response, mean, and maximum. Resul
 - `0.0` indicates **NEITHER AGREE NOR DISAGREE**
 - `1.0` indicates **SOMEWHAT AGREE**
 - `2.0` indicates **STRONGLY AGREE** 
-<br/>
-Example: `[-2.0, 1.2972972972972974, 2.0]` <br/>
+
+#### Example:
+`[-2.0, 1.2972972972972974, 2.0]` <br/>
 - `-2.0` represents the minimum (**STRONGLY DISAGREE**)
 - `1.2972972972972974` represents the mean (**SOMEWHAT AGREE to STRONGLY AGREE**)
 - `2.0` represents the maximum (**STRONGLY AGREE**)
