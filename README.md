@@ -37,6 +37,8 @@ My level of physical fitness or health DISCOURAGES: `[-2.0, -0.70270270270270274
 Concern over public safety DISCOURAGES : `[-2.0, -1.0, 2.0]` <br/>
 A physical disability DISCOURAGES: `[-2.0, -1.5945945945945945, 1.0]` <br/>
 
+![3AFactors](OverallFactors.png)
+
 ### SECTION 3B: ENCOURAGE/DISCOURAGE
 **I have a desire to go to a national park: `[-1.0, 1.2432432432432432, 2.0]`** <br/>
 **Want to go with group: `[-2.0, 1.2162162162162162, 2.0]`** <br/>
@@ -59,3 +61,5 @@ Information on how close a park is: `[-2.0, 0.86486486486486491, 2.0]` <br/>
 Reviews from people like you: `[-2.0, 0.78378378378378377, 2.0]` <br/>
 Advice on how to hike: `[-2.0, 0.59459459459459463, 2.0]` <br/>
 Reviews from people NOT like you : `[-2.0, -0.081081081081081086, 2.0]` <br/>
+
+![4AFactors](Features.png)
