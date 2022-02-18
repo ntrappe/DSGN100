@@ -26,7 +26,7 @@ In my free time, I go to state parks/forest: `[-2.0, -0.10810810810810811, 2.0]`
 
 ### SECTION 2: REASONING 
 TBA
-![2AFactors](gotToParkFor.png)
+![2AFactors](goToParkFor.png)
 
 ### SECTION 3A: ENCOURAGE/DISCOURAGE 
 A lack of free time DISCOURAGES: `[-1.0, 0.91891891891891897, 2.0]` <br/>
